@@ -36,9 +36,8 @@ Kurzbeschreibung: …
 ---
 
 ## 4. Erlaubte Systeme
-- Internes on-prem LLM  
-- Azure OpenAI (kein Training, kein Log-Retention)  
-- Von der Firma freigegebene Modelle  
+- Fh Genie
+- Microsoft copilot (Mit Lizenz!)
 
 Nicht erlaubt: öffentliche Online-LLMs oder kostenlose Tools.
 
